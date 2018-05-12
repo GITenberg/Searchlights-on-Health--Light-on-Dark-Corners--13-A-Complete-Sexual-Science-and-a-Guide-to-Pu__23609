@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '5048'
     url: http://www.gutenberg.org/2009/agents/5048
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23609#Searchlights-on-Health--Light-on-Dark-Corners--13-A-Complete-Sexual-Science-and-a-Guide-to-Pu_
 gutenberg_bookshelf:
 - Sociology
 - Medicine
